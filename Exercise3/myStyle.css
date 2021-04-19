@@ -1,0 +1,99 @@
+
+body
+{
+
+    background-color: white;
+   
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a
+{
+    color: blue;
+}
+
+a:hover
+{
+    color: blue;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 40pt;
+}
+
+h3
+{
+    font-size: 22pt;
+}
+
+ul
+{
+    font-size: 22pt;
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    white-space: nowrap;
+}
+
+.wrap 
+{
+    display: flex;
+    width: 100%;
+}
+
+
+.links-bar
+{
+    background-color: whitesmoke;
+    padding-right: 10px;
+}
+
+.poster
+{
+    display: block;
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+    text-align: center;
+}
+
+.main-page
+{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    flex-grow: 1;
+}
+
+.media
+{
+    width: 300;
+    height: 300;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    border-style: double;
+    border-color: white;
+    border-width: 5px;
+}
+
+
+#title-header
+{
+    color: greenyellow ;
+    font-size: 50pt;
+}
+
+.bio
+{
+    width: 60%;
+    margin: auto;
+    border-style: solid;
+    border-color: black;
+    background-color: tan;
+    color: black;
+    text-align: center;
+    font-size: 22pt;
+}
+
